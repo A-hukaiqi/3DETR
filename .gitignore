@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# virtual env
+.venv/
+venv/
+env/
+
+# raw datasets
+rawdata/*
+!rawdata/.gitkeep
+
+# logs
+*.log
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python environment variables
+.env
