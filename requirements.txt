@@ -1,0 +1,17 @@
+# Core numerical computing
+numpy>=2.0
+scipy>=1.13
+
+# Computer vision
+opencv-python>=4.10
+
+# Point cloud visualization
+open3d>=0.19
+
+# Plotting
+matplotlib>=3.9
+
+# Jupyter
+jupyter
+notebook
+ipykernel
